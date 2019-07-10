@@ -1,0 +1,26 @@
+body{
+	background-color: #00FFFF;
+	 
+	 
+}
+h1{
+	
+	color: #00FFFF;
+}
+
+
+td{
+	color: #00FFFF;
+}
+option.home{
+	color: #00ff00;
+}
+select.away{
+	color: #00ff00;
+}
+select.hd{
+	color: #00ff00;
+}
+select.ad{
+	color: #00FFFF;
+}
